@@ -7,8 +7,39 @@
     src: local('Viafont Regular'), url('Viafont.woff') format('woff');
 }
 
+@font-face {
+    font-family: 'Robot Renegades Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Robot Renegades Regular'), url('Robot Renegades.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Robot Renegades Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Robot Renegades Regular'), url('Robot Renegades.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Robot Renegades Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Robot Renegades Italic'), url('Robot Renegades Italic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Robot Renegades Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Robot Renegades Italic'), url('Robot Renegades Italic.woff') format('woff');
+}
+
 h1 {
-    font-family: 'Viafont Regular';
+    font-family: 'Robot Renegades Regular';
     font-weight: 200;
     color: #0ccac4;
 }
